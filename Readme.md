@@ -26,7 +26,7 @@ superstore-sales-analysis-excel/
 
 ### Task 1: Determine the Dataset Size
 
-Find the total number of rows and columns in your dataset.
+Find the total ? of rows and columns in your dataset.
 
 * **Total Rows:**
 * **Total Columns:**
@@ -44,7 +44,7 @@ Check whether any entire rows are duplicated in the dataset.
 
 Complete the following tasks:
 
-1. Identify the total number of duplicate rows.
+1. Identify the total ? of duplicate rows.
 2. Verify whether the duplicates are genuinely unnecessary repetitions.
 3. Do not delete any rows without verifying them first.
 
@@ -55,21 +55,21 @@ Findings:
 
 Verify whether the following columns have the correct data types.
 
-| Column       | Expected Data Type                    |
-| ------------ | ------------------------------------- |
-| Ship Mode    | Text                                  |
-| Segment      | Text                                  |
-| Country      | Text                                  |
-| City         | Text                                  |
-| State        | Text                                  |
-| Postal Code  | Text or an appropriate numeric format |
-| Region       | Text                                  |
-| Category     | Text                                  |
-| Sub-Category | Text                                  |
-| Sales        | Number                                |
-| Quantity     | Whole Number                          |
-| Discount     | Number                                |
-| Profit       | Number                                |
+| Column       | Expected Data Type                 |
+| ------------ | ---------------------------------- |
+| Ship Mode    | ?                                  |
+| Segment      | ?                                  |
+| Country      | ?                                  |
+| City         | ?                                  |
+| State        | ?                                  |
+| Postal Code  | ? or an appropriate numeric format |
+| Region       | ?                                  |
+| Category     | ?                                  |
+| Sub-Category | ?                                  |
+| Sales        | ?                                  |
+| Quantity     | ?                                  |
+| Discount     | ?                                  |
+| Profit       | ?                                  |
 
 For each column, check its actual data type and compare it with the expected data type.
 
