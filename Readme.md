@@ -12,17 +12,14 @@
 
 Find the total number of rows and columns in your dataset.
 
-* **Total Rows:**
-* **Total Columns:**
+Total Rows:
+Total Columns:
 
----
+
 
 ### Task 2: Check for Missing Values
 
 Check whether any cells are blank in each column.
-=======
-
----
 
 ### Task 3: Check for Duplicate Records
 
@@ -34,11 +31,8 @@ Complete the following tasks:
 2. Verify whether the duplicates are genuinely unnecessary repetitions.
 3. Do not delete any rows without verifying them first.
 
-**Total Duplicate Rows:**
-
-**Findings:**
-
----
+Total Duplicate Rows:
+Findings:
 
 ### Task 4: Check Data Types
 
@@ -64,8 +58,6 @@ For each column, check its actual data type and compare it with the expected dat
 
 Record any data type issues you find.
 
----
-
 ### Task 5: Create a Data Quality Report
 
 Create a new worksheet in Excel.
@@ -86,12 +78,12 @@ If you do not find any data quality issues, explicitly mention that in your repo
 
 **Important:** Do not modify or delete any data without verifying the issues first.
 
----
+
 
 ## Project Objective
 
 The objective of this project is to develop practical data analysis skills by performing initial data quality checks on a Superstore dataset using Microsoft Excel.
 
 By completing this project, you will learn how to inspect a dataset, identify missing values, detect duplicate records, validate data types, and prepare a professional data quality report.
-=======
+
 
