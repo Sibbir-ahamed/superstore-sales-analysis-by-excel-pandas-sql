@@ -12,14 +12,15 @@
 
 Find the total number of rows and columns in your dataset.
 
-Total Rows:
-Total Columns:
+* **Total Rows:**
+* **Total Columns:**
 
-
+---
 
 ### Task 2: Check for Missing Values
 
 Check whether any cells are blank in each column.
+
 
 ### Task 3: Check for Duplicate Records
 
@@ -31,7 +32,7 @@ Complete the following tasks:
 2. Verify whether the duplicates are genuinely unnecessary repetitions.
 3. Do not delete any rows without verifying them first.
 
-Total Duplicate Rows:
+Total Duplicate Rows:**
 Findings:
 
 ### Task 4: Check Data Types
