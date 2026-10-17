@@ -14,6 +14,7 @@ superstore-sales-analysis-excel/
 └── reports/
     └── Data_Quality_Summary.md
 ```
+
 # PROJECT 01: Superstore Sales & Profitability Analysis
 
 **Project Type:** Office-0 Level Data Analysis
