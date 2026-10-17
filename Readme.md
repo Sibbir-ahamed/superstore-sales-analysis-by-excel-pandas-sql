@@ -16,7 +16,7 @@ superstore-sales-analysis-excel/
 ```
 # PROJECT 01: Superstore Sales & Profitability Analysis
 
-**Project Type:** Office-Level Data Analysis
+**Project Type:** Office-0 Level Data Analysis
 **Difficulty:** Beginner
 **Role:** Junior Data Analyst
 **Tool:** Microsoft Excel
