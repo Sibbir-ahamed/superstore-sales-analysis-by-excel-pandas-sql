@@ -3,16 +3,21 @@
 ```text
 superstore-sales-analysis-excel/
 │
-├── README.md
-│
 ├── data/
 │   └── SampleSuperstore.xlsx
-│
+|
+├── docx/
+│   └── Superstore_Data_Quality_Report.docx
+|
 ├── excel/
 │   └── Superstore_Data_Quality_Report.xlsx
-│
-└── reports/
-    └── Data_Quality_Summary.md
+|
+├── reports/
+|   └── Data_Quality_Summary.md
+|
+└── README.md
+
+
 ```
 
 # PROJECT 01: Superstore Sales & Profitability Analysis
