@@ -1,4 +1,17 @@
 
+* *** Project Structur ***
+superstore-sales-analysis-excel/
+│
+├── README.md
+│
+├── data/
+│   └── SampleSuperstore.xlsx
+│
+├── excel/
+│   └── Superstore_Data_Quality_Report.xlsx
+│
+└── reports/
+    └── Data_Quality_Summary.md
 # PROJECT 01: Superstore Sales & Profitability Analysis
 
 **Project Type:** Office-Level Data Analysis
