@@ -6,8 +6,8 @@ superstore-sales-analysis-excel/
 ├── data/
 │   └── SampleSuperstore.xlsx
 |
-├── docx/
-│   └── Superstore_Data_Quality_Report.docx
+├── docs/
+│   └── Superstore_Data_Quality_Report.docs
 |
 ├── excel/
 │   └── Superstore_Data_Quality_Report.xlsx
