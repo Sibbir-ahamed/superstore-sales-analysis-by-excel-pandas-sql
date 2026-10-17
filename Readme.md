@@ -21,46 +21,7 @@ Find the total number of rows and columns in your dataset.
 
 Check whether any cells are blank in each column.
 =======
-PROJECT 01: Superstore Sales & Profitability Analysis
 
-Project Type: Office-Level Data Analysis
-Difficulty: Beginner
-Role: Junior Data Analyst
-Tool: Microsoft Excel
-
-
-যে কাজগুলো করতে হবে
-কাজ ১: Dataset-এর আকার বের করো
-
-তোমার ফাইলে মোট কতটি Row এবং কতটি Column আছে, তা বের করো।
-
-Total Rows 	:
-Total Columns	:
-
-
-
-
-কাজ ২: Missing Values পরীক্ষা করো
-প্রতিটি Column-এ কোনো ফাঁকা Cell আছে কি না পরীক্ষা করো।
->>>>>>> c84ec2d (Update README.md for project description clarity)
-
-| Column       | Missing Values |
-| ------------ | -------------: |
-| Ship Mode    |              ? |
-| Segment      |              ? |
-| Country      |              ? |
-| City         |              ? |
-| State        |              ? |
-| Postal Code  |              ? |
-| Region       |              ? |
-| Category     |              ? |
-| Sub-Category |              ? |
-| Sales        |              ? |
-| Quantity     |              ? |
-| Discount     |              ? |
-| Profit       |              ? |
-
-<<<<<<< HEAD
 ---
 
 ### Task 3: Check for Duplicate Records
